@@ -1,0 +1,13 @@
+time,card,alerts on card today,amount $,category,score,reason 1,reason 2,reason 3,actually fraud
+23:01,9eaf881f2f41,6,1133.57,shopping_net,1.0,"Amount $1,134 is in a high-risk range","$3,179 already spent on this card in the past 24h",4 late-night transactions on this card in the past 24h,yes
+22:31,9eaf881f2f41,6,822.11,shopping_pos,1.0,Amount $822 is in a high-risk range,"$2,357 already spent on this card in the past 24h",3 late-night transactions on this card in the past 24h,yes
+22:09,9eaf881f2f41,6,958.05,shopping_net,1.0,Amount $958 is in a high-risk range,"$1,399 already spent on this card in the past 24h",7 transactions on this card in the past 7 days,yes
+22:03,9eaf881f2f41,6,828.22,misc_net,1.0,Amount $828 is in a high-risk range,2 transactions on this card in the past 24h,6 transactions on this card in the past 7 days,yes
+01:48,80923ef01336,3,335.98,grocery_pos,1.0,Category 'grocery_pos' carries higher fraud risk,Amount $336 is in a high-risk range,Amount $336 is 4.0x this card's 30-day average,yes
+00:21,9eaf881f2f41,6,295.91,grocery_pos,0.999,Category 'grocery_pos' carries higher fraud risk,Amount $296 is in a high-risk range,Made late at night (22:00-04:00),yes
+23:37,5ede0fe60e42,2,742.91,shopping_pos,0.998,Amount $743 is in a high-risk range,"$1,010 already spent on this card in the past 24h",2 transactions on this card in the past 24h,yes
+18:43,9eaf881f2f41,6,275.16,grocery_pos,0.998,Category 'grocery_pos' carries higher fraud risk,Amount $275 is in a high-risk range,1 transaction on this card in the past 24h,yes
+03:51,80923ef01336,3,1097.18,shopping_net,0.996,"Amount $1,097 is in a high-risk range",3 late-night transactions on this card in the past 24h,Made late at night (22:00-04:00),yes
+15:42,80923ef01336,3,110.12,food_dining,0.983,"$1,526 already spent on this card in the past 24h",4 late-night transactions on this card in the past 24h,Category 'food_dining' carries higher fraud risk,yes
+22:10,5ede0fe60e42,2,988.18,shopping_net,0.957,Amount $988 is in a high-risk range,1 transaction on this card in the past 24h,Amount $988 is 11.4x this card's 30-day average,yes
+02:49,252bdf88158a,1,1245.68,shopping_net,0.874,"Amount $1,246 is in a high-risk range",No other transactions on this card in the past 24h,Made late at night (22:00-04:00),no
